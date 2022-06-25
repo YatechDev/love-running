@@ -1,6 +1,11 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![alt text](assets/images/Responsive%20page.jpg "Logo Title Text 1") 
 
 ## Love Running
 
-Code Institute first walkthrough responsive project.  
-A website for a Dublin running community.
+The first walktrough project during the study at Code Institute.  
+A responsive website for a Dublin running community.  
+
+[>>> Link to live website <<<](https://www.google.com)  
+  
+    
+![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
